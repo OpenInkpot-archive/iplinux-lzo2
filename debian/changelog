@@ -1,3 +1,9 @@
+lzo2 (2.03-2) asimov; urgency=low
+
+  * First build for IPlinux.
+
+ -- Mikhail Gusarov <dottedmag@dottedmag.net>  Sat, 28 Mar 2009 00:13:16 +0600
+
 lzo2 (2.03-1) unstable; urgency=low
 
   * New upstream release
