@@ -1,3 +1,9 @@
+lzo2 (2.03-3) asimov; urgency=low
+
+  * Rebuild to fix libgcc1 dependency.
+
+ -- Mikhail Gusarov <dottedmag@dottedmag.net>  Tue, 26 May 2009 23:15:50 +0700
+
 lzo2 (2.03-2) asimov; urgency=low
 
   * First build for IPlinux.
